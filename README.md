@@ -7,6 +7,7 @@ SintCupApp
 ## 
 
 ![layout](https://watertian.github.io/SintCupApp/assets/layout1.gif)
+.. . 
 ![layout](https://watertian.github.io/SintCupApp/assets/layout2.gif)
 
 
