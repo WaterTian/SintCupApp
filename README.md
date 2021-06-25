@@ -6,6 +6,12 @@ SintCupApp
 
 ## 
 
+![layout](https://watertian.github.io/SintCupApp/assets/layout1.gif)
+![layout](https://watertian.github.io/SintCupApp/assets/layout2.gif)
+
+
+## 
+
 项目基于 [SintJs](https://watertian.github.io/sint.js) 2d引擎开发
 
 - [![npm version](https://badge.fury.io/js/sint.js.svg)](https://badge.fury.io/js/sint.js)
