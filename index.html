@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SintCup</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <link rel="apple-touch-icon" href="./assets/icon.png"/>
+        <link rel="shortcut icon" type="image/x-icon" href="./assets/icon.png"/>
+        <style>
+            body {
+            font-family: "Inconsolata", monospace;
+            background-color: #fafafa;
+            margin: 0px;
+            overflow: hidden;
+        }
+
+        #webglContainer {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            z-index: 1;
+        }
+
+        </style>
+    </head>
+    <body>
+        <div id="webglContainer"></div>
+        <script src="dist/app.js?v=0.0.1"></script>
+        
+    </body>
+</html>
