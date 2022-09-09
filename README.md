@@ -2,7 +2,9 @@ SintCupApp
 =============
 
 
-项目在线预览地址：https://watertian.github.io/SintCupApp/
+在线预览地址：https://watertian.github.io/SintCupApp/
+
+项目完整视频：https://www.bilibili.com/video/BV1Fy4y1M7PT
 
 ## 
 
